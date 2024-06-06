@@ -1,0 +1,10 @@
+1. Modify DP section wiring.
+2. Change R17 to 5.1K.
+3. Adjust button position to prevent accidental touch.
+4. Adjust LED level.
+5. Modify PHY IO configuration.
+6. Adjust FAN interface wiring sequence.
+7. Modify FAN connector size.
+8. Revise PMU capacitor layout.
+9. Optimize VBUS routing.
+10. Modify silk screen logo.

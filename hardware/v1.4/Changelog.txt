@@ -1,0 +1,2 @@
+1. Modify DP Res
+2. Modify SPI LCD BLK
