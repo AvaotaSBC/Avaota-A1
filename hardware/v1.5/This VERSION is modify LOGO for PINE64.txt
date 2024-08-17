@@ -1,0 +1,2 @@
+1. Modify R30 to 4K3, R33 to 6K8 to Support boot from SPI NOR in PJ bank
+2. Mount SPI NOR
