@@ -1,0 +1,4 @@
+1. Fix SoC 3V3 Digital power domain error **important**
+2. Add Dioid for USB VBUS to Avoid Power switch abnormal working
+3. Modify HDMI reference layer
+4. Modify RF reference layer
